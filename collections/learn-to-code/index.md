@@ -1,7 +1,6 @@
 ---
 items:
- - 30-seconds/30-seconds-of-code
- - railsgirls/railsgirls.github.io
+
  - railsbridge/docs
  - freeCodeCamp/freeCodeCamp
  - leachim6/hello-world
@@ -11,8 +10,7 @@ items:
  - MunGell/awesome-for-beginners
  - appacademy/welcome-to-open
  - webgems/webgems
- - kamranahmedse/developer-roadmap
- - AMAI-GmbH/AI-Expert-Roadmap
+ - kamranahmedse/developer-roadma
  - trekhleb/javascript-algorithms
  - Microsoft/web-dev-for-beginners
 
